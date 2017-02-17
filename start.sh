@@ -1,6 +1,4 @@
 
-java -jar JMusicBot-0.0.2-patch.jar -nogui
-
 #!/bin/bash
 BASE="forge.jar"
 
